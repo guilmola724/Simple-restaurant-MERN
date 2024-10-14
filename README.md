@@ -52,9 +52,6 @@ Back end is implemented using [Node JS](https://nodejs.org/en/docs), [Express JS
 ## Installation
 
 Clone the repository: 
-```bash
-$ git clone https://github.com/anijitsao/react-app-simple-restaurant-app.git
-``` 
 Navigate inside the directory and install all the necessary dependecies:
 
 ```bash
